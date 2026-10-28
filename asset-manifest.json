@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/melnik-github-pages/static/css/main.76c8fbf5.css",
+    "main.js": "/melnik-github-pages/static/js/main.90eba4b1.js",
+    "index.html": "/melnik-github-pages/index.html",
+    "main.76c8fbf5.css.map": "/melnik-github-pages/static/css/main.76c8fbf5.css.map",
+    "main.90eba4b1.js.map": "/melnik-github-pages/static/js/main.90eba4b1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76c8fbf5.css",
+    "static/js/main.90eba4b1.js"
+  ]
+}
